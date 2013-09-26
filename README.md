@@ -21,6 +21,10 @@ Views
     %h1.main-menu
 
 Not prefered: main_menu nor mainMenu
+Sometimes Rails devs would prefer main_menu, but then you will forever
+mix up with designers and other css class names and you just cannot remember
+when you were using ruby style or css stlye. Therefore it's better always to honor css
+style for html class names.
 
 2) Add js- prefix for classes/id when you use those with javascript, example:
  
