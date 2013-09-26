@@ -4,7 +4,7 @@ Styleguide
 This guide has two humble goals: 
 
 - Help newbies quickly figure out preferred project style
-- Saves time for older peers about talking preferred style 
+- Saves time for older peers about talking their brilliant preferred style ;-)
 
 
 The very first rule
