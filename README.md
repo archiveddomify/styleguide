@@ -18,9 +18,9 @@ Views
 
 1) Honor css classic style for class names, preferred example:
 
-    %h1.js-foldable
+    %h1.main-menu
 
-Not prefered: %h1.js_foldable nor %h1.jsFoldable
+Not prefered: main_menu nor mainMenu
 
 2) Add js- prefix for classes/id when you use those with javascript, example:
  
